@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 < CPARKASS Manual >
 
 0. The origin of tool name
@@ -76,3 +77,6 @@ To get a detailed information.
 Ex> ./cparkass -t C:\music_player\listen.exe -v
 
 
+=======
+a
+>>>>>>> dd99628d476a27cbb975d649295c41822a8400ba
