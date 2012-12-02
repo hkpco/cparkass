@@ -2,9 +2,9 @@
 
 0. The origin of tool name
 
-Chanam Park is my name and this tool is developed to assessment of software security.
+Chanam Park is my name and this tool has been developed to assessment of software security.
 So, Chanam PARK's ASSessment -> CPARKASS
-This is just in case that you would think the word ¡®ASS¡¯ as a strange means. You know. ;-)
+This is just in case that you would think the word "ASS" as a strange means. You know. ;-)
 
 
 1. Introduction
@@ -13,7 +13,7 @@ Cparkass is a convenient tool for the security assessment or fuzzing which is de
 
 The concept is very simple.
 
-Suppose someone wants to verify the software¡¯s vulnerability which is processing some file formats.
+Suppose someone wants to verify the software's vulnerability which is processing some file formats.
 
 In that case, you can use this tool.
 
